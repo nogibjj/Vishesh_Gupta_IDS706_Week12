@@ -1,5 +1,5 @@
 # Define the image name
-IMAGE_NAME = DE_W12
+IMAGE_NAME = de_w12
 DOCKER_ID_USER = visheshgupta19
 
 # Build the Docker image
